@@ -1,3 +1,5 @@
+import './style.sass';
+
 const helloWorld = document.createElement('h1');
 helloWorld.innerText = 'Hello Webpack!!!';
 
