@@ -1,6 +1,6 @@
 # Webpack Template
 
-> "Ready To Go" webpack template to bootstrap you projects.
+> "Ready To Go" webpack template to bootstrap your projects.
 
 ## Features
 
